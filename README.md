@@ -29,6 +29,17 @@
 - [ ] Determine a way to track dependencies
 - [ ] Determine a list of analytics events
 - [ ] Determine a roll out plan -- for high traffic experiences
+- [ ] Determine testing strategy beyond unit testing
+- [ ] Agree on definition of done, definition of ready
+- [ ] Implement style system, if necessary
+- [ ] Determine error handling and display patterns
+- [ ] Determine handling of null states
+- [ ] Set up in-browser development tools
+- [ ] Set up tools and configure for logging, monitoring, reporting, and alerting
+  - [ ] Traffic and availability
+  - [ ] Performance
+  - [ ] Errors: JS, services, images, links
+  - [ ] Saturation: CPU, memory, storage, network
 
 
 ## Create a test environment
