@@ -41,15 +41,28 @@
   - [ ] Errors: JS, services, images, links
   - [ ] Saturation: CPU, memory, storage, network
 
-
 ## Create a test environment
 
+- [ ] Set up test and deployment pipelines
+- [ ] Build static asset pipeline
 
 ## Deploy to dark production
 
+- [ ] Implement automated security checks
+- [ ] Create a on-call playbook
+- [ ] Enable alerting system
 
 ## Launch experience to users
 
+- [ ] Hook up to real, production services
+- [ ] Enable domain routing
+- [ ] Check and correct accessibility
+- [ ] Address any remaining logging, monitoring, reporting, and alerting requirements
+- [ ] Test localization
 
 ## Long term concerns
 
+- [ ] Enable feature flagging
+- [ ] Enable A/B testing and user research
+- [ ] Deploy pull requests for review
+- [ ] Automate contract testing
